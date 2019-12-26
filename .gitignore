@@ -4,6 +4,7 @@
 /storage/*.key
 /storage/framework
 /.idea
+.env
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
